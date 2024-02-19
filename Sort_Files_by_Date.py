@@ -41,12 +41,12 @@ def sort_files_by_modified_date(source_folder, destination_folder):
     return file_count, folder_count, max_num_files_in_folder
 
 if __name__ == "__main__":
-    source_folder = input("Enter source folder path ")  # Change this to the source folder path
+    source_folder = input("Enter source folder path ")
     if not is_valid_folder_path(source_folder):
         print(f"Source folder: {source_folder} is not a valid folder path.")
         sys.exit()
 
-    destination_folder = input("Enter destination folder path ")  # Change this to the destination folder path
+    destination_folder = input("Enter destination folder path ")
     if not is_valid_folder_path(destination_folder):
         print(f"Destination folder: {destination_folder} is not a valid folder path.")
         sys.exit()
