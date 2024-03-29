@@ -56,6 +56,6 @@ if __name__ == "__main__":
     print(f"Number of file moved into the folders: {file_count}")
     print(f"The folder with the most files has {max_num_files_in_folder} files in it")
     if folder_count == 0:
-        print("Avereg nuber of files per folders are: 0")
+        print("Avereg number of files per folders are: 0")
     else:
-        print(f"Avereg nuber of files per folders are: {file_count / folder_count}")
+        print(f"Avereg number of files per folders are: {file_count / folder_count}")
