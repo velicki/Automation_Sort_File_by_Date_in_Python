@@ -1,10 +1,10 @@
-Sort File by Date
+# Sort File by Date
 
 The "Sort File by Date" project is a Python-based automation tool designed to simplify the process of managing and sorting files based on their modification dates. This project is particularly useful for tasks involving a large volume of files with varying modification dates.
 
 ___________________________________________________
 
-WHAT I HAVE LEARNED?
+# WHAT I HAVE LEARNED?
 
 
 While developing the "Sort File by Date" script, I gained valuable insights and learned important lessons that enhanced my understanding of file management, automation, and Python programming. Here's what I learned:
@@ -29,7 +29,7 @@ Overall, developing the "Sort File by Date" script was a rewarding learning expe
 ___________________________________________________
 
 
-Features:
+# Features:
 
 
 Folder Path Input: The program prompts the user to input the folder path where the files to be sorted are located.
@@ -49,7 +49,7 @@ Analytics: At the end of the process, the script provides analytics such as:
 ___________________________________________________
 
 
-Usage:
+# Usage:
 
 
 -Run the script sort_file_by_date.py.
@@ -65,7 +65,7 @@ Usage:
 ___________________________________________________
 
 
-Dependencies:
+# Dependencies:
 
 
 This project requires Python 3.x to run. There are no additional dependencies or external libraries required.
@@ -73,7 +73,7 @@ This project requires Python 3.x to run. There are no additional dependencies or
 ___________________________________________________
 
 
-Disclaimer:
+# Disclaimer:
 
 
 This tool is provided as-is, without any warranties or guarantees. Users are advised to use caution when running automation scripts and ensure that they understand the implications of file manipulation actions.
